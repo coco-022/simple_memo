@@ -24,12 +24,12 @@ body{
   margin: 15px 5px;
 }
 
-.output::-webkit-scrollbar {
+::-webkit-scrollbar {
   width: 2px;
   background: #ecedfb;
   border-radius: 2px;
 }
-.output::-webkit-scrollbar-thumb {
+::-webkit-scrollbar-thumb {
   background: #999bd7;
   border-radius: 2px;
 }
