@@ -1,0 +1,64 @@
+body{
+  background-color: #fff;
+}
+
+.output{
+  background-color: #fff;
+  height: 240px;
+  overflow-y: scroll;
+}
+
+.output>div{
+  background-color: #999bd7;
+  color: white;
+  display: block;
+  padding: 5px 15px;
+  margin: 10px;
+  font-size: 10px;
+  border-radius: 5px;
+  overflow-wrap: break-word;
+  box-shadow: 0px 0px 8px 0px rgb(0 0 0 / 4%)
+}
+
+.control_unit{
+  margin: 15px 5px;
+}
+
+.output::-webkit-scrollbar {
+  width: 2px;
+  background: #ecedfb;
+  border-radius: 2px;
+}
+.output::-webkit-scrollbar-thumb {
+  background: #999bd7;
+  border-radius: 2px;
+}
+.form_area{
+  font-size: 10px;
+  background-color: #ecedfb;
+  border: none;
+  padding: 8px;
+  width: calc(100% - 180px);
+  border-radius: 50px;
+}
+.form_area:focus{
+  outline: none;
+}
+.memo_btn{
+  font-size: 10px;
+  background-color: #3b3f98;
+  border: none;
+  color: white;
+  padding: 8px;
+  border-radius: 50px;
+  width: 70px;
+}
+.reset_btn{
+  font-size: 10px;
+  background-color: #c4c4c4;
+  border: none;
+  color: white;
+  padding: 8px;
+  border-radius: 50px;
+  width: 70px;
+}
