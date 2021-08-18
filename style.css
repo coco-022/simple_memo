@@ -44,6 +44,7 @@ body{
   padding: 8px;
   width: calc(100% - 168px);
   border-radius: 50px;
+  box-shadow: 0 0 5px 0px rgb(0 0 0 / 10%);
 }
 .form_area:focus{
   outline: none;
@@ -56,6 +57,7 @@ body{
   padding: 8px;
   border-radius: 50px;
   width: 70px;
+  box-shadow: 0 0 5px 0px rgb(0 0 0 / 10%);
 }
 .reset_btn{
   font-size: 10px;
@@ -65,4 +67,5 @@ body{
   padding: 8px;
   border-radius: 50px;
   width: 70px;
+  box-shadow: 0 0 5px 0px rgb(0 0 0 / 10%);
 }
