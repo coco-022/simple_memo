@@ -4,7 +4,7 @@ body{
 
 .output{
   background-color: #fff;
-  height: 240px;
+  height: calc(100vh - 70px);
   overflow-y: scroll;
 }
 
