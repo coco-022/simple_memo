@@ -62,7 +62,8 @@ body{
 }
 .reset_btn{
   font-size: 10px;
-  background-color: #c4c4c4;
+  background: #c4c4c4;
+  background: linear-gradient(to right, #c4c4c4 1%,#d6d6d6 100%);
   border: none;
   color: white;
   padding: 8px;
