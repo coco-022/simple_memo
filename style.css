@@ -22,6 +22,10 @@ body{
 
 .control_unit{
   margin: 15px 5px;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  left: 0;
 }
 
 ::-webkit-scrollbar {
