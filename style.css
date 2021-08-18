@@ -51,7 +51,8 @@ body{
 }
 .memo_btn{
   font-size: 10px;
-  background-color: #3b3f98;
+  background: #3b3f98;
+  background: linear-gradient(to right, #3b3f98 1%,#646796 100%);
   border: none;
   color: white;
   padding: 8px;
