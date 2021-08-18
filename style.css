@@ -38,7 +38,7 @@ body{
   background-color: #ecedfb;
   border: none;
   padding: 8px;
-  width: calc(100% - 180px);
+  width: calc(100% - 168px);
   border-radius: 50px;
 }
 .form_area:focus{
